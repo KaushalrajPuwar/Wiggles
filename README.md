@@ -8,6 +8,13 @@
 
 Welcome to Wiggles! This comprehensive mobile application facilitates the adoption process for cats and dogs. Wiggles connects potential pet owners with pets needing a home, providing detailed profiles and personalized recommendations to ensure the perfect match. Our mission is to streamline the adoption process and support pet owners with valuable resources.
 
+## 👨🏻‍🎓 Team Members
+
+1. **Chirayu Chaudhary (IMT2023004)**
+2. **Kaushalraj Puwar (IMT2023063)**
+3. **Nikunj Mahajan (IMT2023068)**
+4. **Ishaan Sodhi (IMT2023090)**
+
 ## 🎯 Objectives
 
 - **Promote Pet Adoption**: Increase the adoption rates by providing a user-friendly platform where users can browse and adopt pets. 
@@ -198,13 +205,6 @@ The Wiggles App is build using the following technologies:
 
 6. **iOS Version:**  
    Currently available for Android only.
-
-## 👨🏻‍🎓 Team Members
-
-1. **Chirayu Chaudhary (IMT2023004)**
-2. **Kaushalraj Puwar (IMT2023063)**
-3. **Nikunj Mahajan (IMT2023068)**
-4. **Ishaan Sodhi (IMT2023090)**
    
 ## 🙌 Acknowledgements
 
