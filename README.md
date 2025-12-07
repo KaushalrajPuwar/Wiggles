@@ -72,6 +72,10 @@ Before you can run the Wiggles App, ensure you have the following installed on y
 
 - An Android device or emulator for testing
 
+- JDK/JVM (preferably 17)
+
+- Gradle (preferably 8.7)
+
 ### Steps to Install and run
  1. **Clone the Repository**
  - Go to the Github repository and click on the **'Code'** button.
@@ -102,6 +106,25 @@ If you encounter any issues or need further customization, refer to the followin
 - [Android Studio Documentation](https://developer.android.com/studio/intro)
 - [Firebase Documentation](https://firebase.google.com/docs)
 
+
+## 🧪 Testing
+
+The project includes unit tests for the core logic components.
+
+### Running Tests
+The gradlew file must be in the root with settings.gradle.kts and build.gradle.kts. Run all tests with in the root of the project:
+```bash
+./gradlew test
+```
+### Included Tests
+1. **SuggestPetLogicTest**
+    - Tests the quiz-based recommendation algorithm
+    - Ensures correct pet suggestions for various user preference combinations
+    - Validates edge‑case behavior
+
+2. **ConvertersTest**
+    - Tests Room Database string list converters
+    - Ensures reliable serialization and deserialization for database storage
 
 ## 🛠️ Tech Stack
 

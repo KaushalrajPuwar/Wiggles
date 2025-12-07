@@ -80,6 +80,16 @@ dependencies {
 
     implementation(libs.coil.compose)
 
+    // Unit testing libraries
+    testImplementation("junit:junit:4.13.2")
+    testImplementation("org.mockito:mockito-core:5.7.0")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.1")
+
+    // Android instrumented tests (required even if we don't write UI tests)
+    androidTestImplementation("androidx.test.ext:junit:1.1.5")
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+
+
     //ROOM DEPENDENCIES:
     implementation(libs.androidx.room.runtime)
     implementation(libs.androidx.room.ktx)

@@ -1,18 +1,27 @@
-# Ignore IDE-specific files
-*.iml
-.idea/
+# Gradle
+.gradle/
+build/
+*/build/
+!gradle/wrapper/gradle-wrapper.properties
+!gradle/wrapper/gradle-wrapper.jar
 
-# Ignore Gradle files
-.gradle
+# Android Studio
+/.idea
+*.iml
 local.properties
 
-# Ignore build output
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Kotlin
+.kotlin/
 
-# Ignore macOS-specific files
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Google Services
+google-services.json
+
+# Misc
 .DS_Store
 
 # Other potentially unnecessary files
