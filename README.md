@@ -203,6 +203,13 @@ The Wiggles App is build using the following technologies:
 
 6. **iOS Version:**  
    Currently available for Android only.
+
+## 👨🏻‍🎓 Team Members
+
+1. **Chirayu Chaudhary (IMT2023004)**
+2. **Kaushalraj Puwar (IMT2023063)**
+3. **Nikunj Mahajan (IMT2023068)**
+4. **Ishaan Sodhi (IMT2023090)**
    
 ## 🙌 Acknowledgements
 
